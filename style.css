@@ -29,7 +29,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #D10AFF;
+    background: linear-gradient(to right bottom, #8c00ff, #dd61ff);
     color: #fff;
 }
 .topBar i{
@@ -60,7 +60,7 @@ img{
 }
 .userText span{
     text-align: right;
-    background-color: #D10AFF;
+    background: linear-gradient(to right bottom, #8c00ff, #dd61ff);
     color: #fff;
     padding: 10px;
     border-radius: 10px;
